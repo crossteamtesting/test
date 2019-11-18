@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Cross Team Testing Table" max_length="40" name="x_snc_chicagotesta_cross_team_testing_table" type="collection">
+        <element label="Employee ID" max_length="40" name="employee_id" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee Name" max_length="40" name="employee_name" type="string"/>
+    </element>
+</database>
